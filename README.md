@@ -28,7 +28,3 @@ This is a **visually appealing registration page** with a futuristic **VR-themed
 3. Click the **Register** button to submit.  
 4. If you already have an account, click **"Login here"** to navigate to the login page.  
 
-## Future Enhancements  
-- Add **password strength validation**.  
-- Integrate **backend authentication** using Node.js/PHP with a database (e.g., MySQL).  
-- Implement **OAuth login** options (Google, Facebook).  
